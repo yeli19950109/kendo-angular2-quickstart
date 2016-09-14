@@ -37,6 +37,9 @@
     "@angular/router": "~3.0.2",
     "@angular/upgrade": "~2.0.2",
 
+    "@telerik/kendo-theme-default": "^1.26.1",
+    "@progress/kendo-angular-buttons": "^0.10.3",
+
     "angular-in-memory-web-api": "~0.1.5",
     "bootstrap": "^3.3.7",
     "systemjs": "0.19.39",
